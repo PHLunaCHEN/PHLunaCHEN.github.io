@@ -1,5 +1,5 @@
 ---
-permalink: archive
+permalink: /
 title: "Lu CHEN（陈露）"
 author_profile: true
 redirect_from: 
