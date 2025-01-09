@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-10-ijsw.12672
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-10
-venue: 'Journal 1'
+venue: 'International Journal of Social Welfare'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Chen, L., & Zhang, W. (2024). Savings trajectories and cohort differences among older Chinese couples. International Journal of Social Welfare, 33(4), 1094–1107. https://doi.org/10.1111/ijsw.12672'
