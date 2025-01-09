@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Lu CHEN is a PhD student studying gerontology at the School of Population and Health, Renmin University of China, in Beijing. She obtained a bachelor’s degree in public affairs administration from the same school. Her research interest is the economics of ageing. She can be contacted at chenluruc@ruc.edu.cn.
+Lu CHEN is a PhD student studying Gerontology at the School of Population and Health, Renmin University of China, in Beijing. She obtained a bachelor’s degree in Public Affairs Administration from the same school. Her research interest is the economics of ageing and social welfare. She can be contacted at chenluruc@ruc.edu.cn.
