@@ -249,10 +249,10 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: hidden
+      type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
